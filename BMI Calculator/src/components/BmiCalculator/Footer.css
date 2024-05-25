@@ -1,0 +1,10 @@
+/* src/components/Footer.css */
+.footer {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
